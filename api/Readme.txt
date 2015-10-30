@@ -1,0 +1,13 @@
+Zawartość Płyty
+- Plik Readme.txt, opisujący zawartość płyty CD.
+- Katalog Src, zawierający kod źródłowy.
+- Katalog Bin, zawierający zbudowaną do pliku war aplikacje w wersji dla postgreSQL oraz Hbase.
+- Katalog Data, zawierający oryginalne artykuły zcrawlowane z portalu wp.pl w formacie CSV .
+- Katalog Backup, zawierający backup bazy danych w formacie CSV.
+- Katalog Scripts – zawierające skrypty do utworzenia baz danych, zarówno dla postgreSQL jak i Apache Phoenix (HBase).
+- Katalog Doc, zawierający niniejszą pracę w formacie PDF oraz w formacie docx.
+- Katalog Elasticsearch, zawierający skrypt niezbędny do stworzenie i uzupełnienia indeksu Elasticsearch.
+- Katalog Config, zawierający przykładowe pliki konfiguracyjne dla Hadoop oraz HBase.
+- Katalog FTS, zawierający pliki konfiguracje potrzebne do instalacji modułu FTS dla postgreSQL w języku polskim, a także skrypty potrzebne do jego instalacji.
+- Katalog Diagrams zawierający diagramy zamieszczone także w pracy.
+- Katalog Results zawierający wyniki eksperymentów.
